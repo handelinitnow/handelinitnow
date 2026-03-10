@@ -6,7 +6,7 @@ James Handelin — founder and technologist building secure, user-friendly, intu
 
 **Focus:** security, simplicity, and great UX.
 
-[View Projects](#projects) · [Email](mailto:zto-dev@proton.me)
+[View Projects](#projects) · [Email](mailto:zto.dev@protonmail.com)
 
 ### About
 
@@ -41,9 +41,9 @@ Coming soon...
 
 ### Contact
 
-- Email: [jhandelin@proton.me](mailto:zto.dev@protonmail.com)
-- GitHub: (add link)
-- LinkedIn: (add link)
+- Email: [zto.dev@protonmail.com](mailto:zto.dev@protonmail.com)
+- GitHub: ()
+- LinkedIn:(https://www.linkedin.com/in/jameshandelin)
 
 <!---
 handelinitnow/handelinitnow is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
