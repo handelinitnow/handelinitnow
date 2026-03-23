@@ -42,7 +42,7 @@ Coming soon...
 ### Contact
 
 - Email: [zto.dev@protonmail.com](mailto:zto.dev@protonmail.com)
-- GitHub: ()
+- GitHub: (https://github.com/handelinitnow/handelinitnow)
 - LinkedIn:(https://www.linkedin.com/in/jameshandelin)
 
 <!---
