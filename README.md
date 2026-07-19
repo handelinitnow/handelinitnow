@@ -1,8 +1,6 @@
-### zero_to_one.dev </>
+### Just James Designs </>
 
-James Handelin — founder and technologist building secure, user-friendly, intuitive apps. 
-
-**Now:** Building a decentralization-first crypto management platform at zero_to_one ($ZTO)
+James Handelin — founder and technologist building secure, user-friendly, intuitive websites.
 
 **Focus:** security, simplicity, and great UX.
 
@@ -12,27 +10,27 @@ James Handelin — founder and technologist building secure, user-friendly, intu
 
 I started programming at 13 on a Macintosh II using Apple BASIC.
 
-After working at Apple and Pixar, I chose the founder path and built Inhometek Support, then Zero to One dot dev. 
+After working at Hal Riney Advertising, Apple, and Pixar, I chose the founder path and built Inhometek Support, then Just James Designs. 
 
-Today I build tools that make security and usability feel simple, without giving up user control.
+Today I build websites that make security and usability feel simple, without giving up user control.
 
 I contribute to open source and care deeply about craftsmanship, clarity, and trust.
 
 ### What I’m building
 
-A crypto management platform designed to make everyday crypto safer and simpler, while staying aligned with decentralization.
+Functional, secure, beautiful websites. 
 
 ### Highlights
 
-- Founder, Zero to One
-- Previously: Apple, Pixar
+- Founder, Just James Designs
+- Previously:  Hal Riney Advertising, Apple, Pixar
 - Open-source contributor (Mozilla Firefox, Bear Notes for iOS)
 - Classical musician
 - Content creator
 - Based in Redding, CA
 - Born in San Francisco
 
-**Focus:** crypto security, decentralization, open source, user experience
+**Focus:** front end development, open source, user experience
 
 ---
 
@@ -41,7 +39,7 @@ Coming soon...
 
 ### Contact
 
-- Email: [zto.dev@proton.me](mailto:zto.dev@proton.me)
+- Email: [zto.dev@proton.me](mailto: just_james_designs@proton.me)
 - GitHub: (https://github.com/handelinitnow/handelinitnow)
 - LinkedIn:(https://www.linkedin.com/in/jameshandelin)
 
