@@ -37,9 +37,9 @@ Functional, secure, beautiful websites.
 
 ### Contact
 
-Email: <a href="mailto:just_james_designs\@proton.me">just_james_designs\@proton.me</a>
-[GitHub Profile](https://github.com/handelinitnow/handelinitnow)
-[LinkedIn Profile](https://www.linkedin.com/in/jameshandelin)
+- Email: <a href="mailto:just_james_designs\@proton.me">just_james_designs\@proton.me</a>
+- [GitHub Profile](https://github.com/handelinitnow/handelinitnow)
+- [LinkedIn Profile](https://www.linkedin.com/in/jameshandelin)
 
 <!---
 handelinitnow/handelinitnow is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
