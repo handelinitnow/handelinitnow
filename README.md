@@ -4,7 +4,8 @@ James Handelin — founder and technologist building secure, user-friendly, intu
 
 **Focus:** security, simplicity, and great UX.
 
-[View Projects](#projects) · [Email](mailto:zto.dev@protonmail.com)
+- Email: <a href="mailto:just_james_designs\@proton.me">just_james_designs\@proton.me</a>
+
 
 ### About
 
@@ -34,12 +35,9 @@ Functional, secure, beautiful websites.
 
 ---
 
-### Projects
-Coming soon...
-
 ### Contact
 
-- Email: [zto.dev@proton.me](mailto: just_james_designs@proton.me)
+- Email: <a href="mailto:just_james_designs\@proton.me">just_james_designs\@proton.me</a>
 - GitHub: (https://github.com/handelinitnow/handelinitnow)
 - LinkedIn:(https://www.linkedin.com/in/jameshandelin)
 
